@@ -30,6 +30,11 @@
     cursor: pointer;
 }
 
+.btn a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 .text-center {
     text-align: center;
 }
